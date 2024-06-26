@@ -1,4 +1,5 @@
-# .NET6.0 - API TEST SAFRASAS #
+# .NET6.0 - API TEST SAFRA S.A.S. #
+![image](https://github.com/julian4270/safra-backend/assets/11580379/e42f52c0-4a16-4573-baad-5ad99d947770)
 
 ### Introduction ###
 
