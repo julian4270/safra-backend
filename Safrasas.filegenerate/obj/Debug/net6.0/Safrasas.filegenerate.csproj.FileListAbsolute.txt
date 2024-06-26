@@ -1,0 +1,12 @@
+C:\visual\Safrasas\Safrasas.filegenerate\bin\Debug\net6.0\Safrasas.filegenerate.deps.json
+C:\visual\Safrasas\Safrasas.filegenerate\bin\Debug\net6.0\Safrasas.filegenerate.dll
+C:\visual\Safrasas\Safrasas.filegenerate\bin\Debug\net6.0\Safrasas.filegenerate.pdb
+C:\visual\Safrasas\Safrasas.filegenerate\obj\Debug\net6.0\Safrasas.filegenerate.csproj.AssemblyReference.cache
+C:\visual\Safrasas\Safrasas.filegenerate\obj\Debug\net6.0\Safrasas.filegenerate.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual\Safrasas\Safrasas.filegenerate\obj\Debug\net6.0\Safrasas.filegenerate.AssemblyInfoInputs.cache
+C:\visual\Safrasas\Safrasas.filegenerate\obj\Debug\net6.0\Safrasas.filegenerate.AssemblyInfo.cs
+C:\visual\Safrasas\Safrasas.filegenerate\obj\Debug\net6.0\Safrasas.filegenerate.csproj.CoreCompileInputs.cache
+C:\visual\Safrasas\Safrasas.filegenerate\obj\Debug\net6.0\Safrasas.filegenerate.dll
+C:\visual\Safrasas\Safrasas.filegenerate\obj\Debug\net6.0\refint\Safrasas.filegenerate.dll
+C:\visual\Safrasas\Safrasas.filegenerate\obj\Debug\net6.0\Safrasas.filegenerate.pdb
+C:\visual\Safrasas\Safrasas.filegenerate\obj\Debug\net6.0\ref\Safrasas.filegenerate.dll

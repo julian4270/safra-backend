@@ -1,0 +1,17 @@
+C:\visual\Safrasas\Safrasas.Logging\bin\Debug\net6.0\Safrasas.Logging.deps.json
+C:\visual\Safrasas\Safrasas.Logging\bin\Debug\net6.0\Safrasas.Logging.dll
+C:\visual\Safrasas\Safrasas.Logging\bin\Debug\net6.0\Safrasas.Logging.pdb
+C:\visual\Safrasas\Safrasas.Logging\bin\Debug\net6.0\Safrasas.Application.dll
+C:\visual\Safrasas\Safrasas.Logging\bin\Debug\net6.0\Safrasas.Core.dll
+C:\visual\Safrasas\Safrasas.Logging\bin\Debug\net6.0\Safrasas.Application.pdb
+C:\visual\Safrasas\Safrasas.Logging\bin\Debug\net6.0\Safrasas.Core.pdb
+C:\visual\Safrasas\Safrasas.Logging\obj\Debug\net6.0\Safrasas.Logging.csproj.AssemblyReference.cache
+C:\visual\Safrasas\Safrasas.Logging\obj\Debug\net6.0\Safrasas.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual\Safrasas\Safrasas.Logging\obj\Debug\net6.0\Safrasas.Logging.AssemblyInfoInputs.cache
+C:\visual\Safrasas\Safrasas.Logging\obj\Debug\net6.0\Safrasas.Logging.AssemblyInfo.cs
+C:\visual\Safrasas\Safrasas.Logging\obj\Debug\net6.0\Safrasas.Logging.csproj.CoreCompileInputs.cache
+C:\visual\Safrasas\Safrasas.Logging\obj\Debug\net6.0\Safrasas.Logging.csproj.CopyComplete
+C:\visual\Safrasas\Safrasas.Logging\obj\Debug\net6.0\Safrasas.Logging.dll
+C:\visual\Safrasas\Safrasas.Logging\obj\Debug\net6.0\refint\Safrasas.Logging.dll
+C:\visual\Safrasas\Safrasas.Logging\obj\Debug\net6.0\Safrasas.Logging.pdb
+C:\visual\Safrasas\Safrasas.Logging\obj\Debug\net6.0\ref\Safrasas.Logging.dll

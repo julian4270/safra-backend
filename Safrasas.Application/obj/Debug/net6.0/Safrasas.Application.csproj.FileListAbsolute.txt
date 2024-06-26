@@ -1,0 +1,15 @@
+C:\visual\Safrasas\Safrasas.Application\bin\Debug\net6.0\Safrasas.Application.deps.json
+C:\visual\Safrasas\Safrasas.Application\bin\Debug\net6.0\Safrasas.Application.dll
+C:\visual\Safrasas\Safrasas.Application\bin\Debug\net6.0\Safrasas.Application.pdb
+C:\visual\Safrasas\Safrasas.Application\bin\Debug\net6.0\Safrasas.Core.dll
+C:\visual\Safrasas\Safrasas.Application\bin\Debug\net6.0\Safrasas.Core.pdb
+C:\visual\Safrasas\Safrasas.Application\obj\Debug\net6.0\Safrasas.Application.csproj.AssemblyReference.cache
+C:\visual\Safrasas\Safrasas.Application\obj\Debug\net6.0\Safrasas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual\Safrasas\Safrasas.Application\obj\Debug\net6.0\Safrasas.Application.AssemblyInfoInputs.cache
+C:\visual\Safrasas\Safrasas.Application\obj\Debug\net6.0\Safrasas.Application.AssemblyInfo.cs
+C:\visual\Safrasas\Safrasas.Application\obj\Debug\net6.0\Safrasas.Application.csproj.CoreCompileInputs.cache
+C:\visual\Safrasas\Safrasas.Application\obj\Debug\net6.0\Safrasas.Application.csproj.CopyComplete
+C:\visual\Safrasas\Safrasas.Application\obj\Debug\net6.0\Safrasas.Application.dll
+C:\visual\Safrasas\Safrasas.Application\obj\Debug\net6.0\refint\Safrasas.Application.dll
+C:\visual\Safrasas\Safrasas.Application\obj\Debug\net6.0\Safrasas.Application.pdb
+C:\visual\Safrasas\Safrasas.Application\obj\Debug\net6.0\ref\Safrasas.Application.dll

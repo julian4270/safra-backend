@@ -1,0 +1,12 @@
+C:\visual\Safrasas\Safrasas.Sql\bin\Debug\net6.0\Safrasas.Sql.deps.json
+C:\visual\Safrasas\Safrasas.Sql\bin\Debug\net6.0\Safrasas.Sql.dll
+C:\visual\Safrasas\Safrasas.Sql\bin\Debug\net6.0\Safrasas.Sql.pdb
+C:\visual\Safrasas\Safrasas.Sql\obj\Debug\net6.0\Safrasas.Sql.csproj.AssemblyReference.cache
+C:\visual\Safrasas\Safrasas.Sql\obj\Debug\net6.0\Safrasas.Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual\Safrasas\Safrasas.Sql\obj\Debug\net6.0\Safrasas.Sql.AssemblyInfoInputs.cache
+C:\visual\Safrasas\Safrasas.Sql\obj\Debug\net6.0\Safrasas.Sql.AssemblyInfo.cs
+C:\visual\Safrasas\Safrasas.Sql\obj\Debug\net6.0\Safrasas.Sql.csproj.CoreCompileInputs.cache
+C:\visual\Safrasas\Safrasas.Sql\obj\Debug\net6.0\Safrasas.Sql.dll
+C:\visual\Safrasas\Safrasas.Sql\obj\Debug\net6.0\refint\Safrasas.Sql.dll
+C:\visual\Safrasas\Safrasas.Sql\obj\Debug\net6.0\Safrasas.Sql.pdb
+C:\visual\Safrasas\Safrasas.Sql\obj\Debug\net6.0\ref\Safrasas.Sql.dll

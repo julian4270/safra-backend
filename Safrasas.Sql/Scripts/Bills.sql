@@ -1,0 +1,22 @@
+USE [CRUD]
+GO
+
+/****** Object:  Table [dbo].[Bills]    Script Date: 25/06/2024 5:27:59 p. m. ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Bills](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[client_id] Int NULL,
+	[company_name] [nvarchar](200) NULL,
+	[nit] [nvarchar](100) NULL,
+	[code] [varchar](max) NULL,
+ CONSTRAINT [PK_Bills] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO

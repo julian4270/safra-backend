@@ -1,14 +1,14 @@
-# .NET6.0 - Clean Architecture using Repository Pattern and Dapper with Logging and Unit Testing #
+# .NET6.0 - API TEST SAFRASAS #
 
 ### Introduction ###
 
-This article covers the creation of a sample CRUD API in .NET 6.0 using clean architecture. [Read the full documentation here](https://dev.to/techiesdiary/net-60-clean-architecture-using-repository-pattern-and-dapper-with-logging-and-unit-testing-1nd9)
+This article covers the creation of a sample CRUD API in .NET 6.0 using clean architecture. 
 
 We will use the following tools, technologies, and frameworks in this sample:
 
 - Visual Studio 2022 and .NET 6.0
 - C#
-- MS SQL DB
+- SQL SERVER
 - Clean Architecture
 	- The Clean Architecture is the system architecture guideline proposed by Robert C. Martin also known as Uncle Bob. It is derived from many architectural guidelines such as Hexagonal Architecture, Onion Architecture, etc.
 - Dapper (mini ORM)
